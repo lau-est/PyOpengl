@@ -7,4 +7,5 @@ Install PyGame and PyOpenGL
 * $ python3 -m pip install PyOpenGL PyOpenGL_accelerate
 
 ## Execution
-* Making a rotating Cube Example: $ python pygame1.py
+* Cube example with rotation: $ python pygame1.py
+* Cube example with coloring surfaces: $ python pygame2.py
